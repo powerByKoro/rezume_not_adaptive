@@ -1,1 +1,2 @@
-# rezume_not_adaptive
+# rezume_not_adaptive 
+НЕ адаптивное резюме 
